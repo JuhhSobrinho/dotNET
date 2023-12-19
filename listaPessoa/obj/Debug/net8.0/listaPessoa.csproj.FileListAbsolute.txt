@@ -1,0 +1,15 @@
+C:\Programas\dotNet\listaPessoa\bin\Debug\net8.0\listaPessoa.exe
+C:\Programas\dotNet\listaPessoa\bin\Debug\net8.0\listaPessoa.deps.json
+C:\Programas\dotNet\listaPessoa\bin\Debug\net8.0\listaPessoa.runtimeconfig.json
+C:\Programas\dotNet\listaPessoa\bin\Debug\net8.0\listaPessoa.dll
+C:\Programas\dotNet\listaPessoa\bin\Debug\net8.0\listaPessoa.pdb
+C:\Programas\dotNet\listaPessoa\obj\Debug\net8.0\listaPessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas\dotNet\listaPessoa\obj\Debug\net8.0\listaPessoa.AssemblyInfoInputs.cache
+C:\Programas\dotNet\listaPessoa\obj\Debug\net8.0\listaPessoa.AssemblyInfo.cs
+C:\Programas\dotNet\listaPessoa\obj\Debug\net8.0\listaPessoa.csproj.CoreCompileInputs.cache
+C:\Programas\dotNet\listaPessoa\obj\Debug\net8.0\listaPessoa.sourcelink.json
+C:\Programas\dotNet\listaPessoa\obj\Debug\net8.0\listaPessoa.dll
+C:\Programas\dotNet\listaPessoa\obj\Debug\net8.0\refint\listaPessoa.dll
+C:\Programas\dotNet\listaPessoa\obj\Debug\net8.0\listaPessoa.pdb
+C:\Programas\dotNet\listaPessoa\obj\Debug\net8.0\listaPessoa.genruntimeconfig.cache
+C:\Programas\dotNet\listaPessoa\obj\Debug\net8.0\ref\listaPessoa.dll
