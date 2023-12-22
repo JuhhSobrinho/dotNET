@@ -1,0 +1,15 @@
+C:\Programas\dotNET\listaSimples\obj\Debug\net8.0\listaSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas\dotNET\listaSimples\obj\Debug\net8.0\listaSimples.AssemblyInfoInputs.cache
+C:\Programas\dotNET\listaSimples\obj\Debug\net8.0\listaSimples.AssemblyInfo.cs
+C:\Programas\dotNET\listaSimples\obj\Debug\net8.0\listaSimples.csproj.CoreCompileInputs.cache
+C:\Programas\dotNET\listaSimples\obj\Debug\net8.0\listaSimples.sourcelink.json
+C:\Programas\dotNET\listaSimples\bin\Debug\net8.0\listaSimples.exe
+C:\Programas\dotNET\listaSimples\bin\Debug\net8.0\listaSimples.deps.json
+C:\Programas\dotNET\listaSimples\bin\Debug\net8.0\listaSimples.runtimeconfig.json
+C:\Programas\dotNET\listaSimples\bin\Debug\net8.0\listaSimples.dll
+C:\Programas\dotNET\listaSimples\bin\Debug\net8.0\listaSimples.pdb
+C:\Programas\dotNET\listaSimples\obj\Debug\net8.0\listaSimples.dll
+C:\Programas\dotNET\listaSimples\obj\Debug\net8.0\refint\listaSimples.dll
+C:\Programas\dotNET\listaSimples\obj\Debug\net8.0\listaSimples.pdb
+C:\Programas\dotNET\listaSimples\obj\Debug\net8.0\listaSimples.genruntimeconfig.cache
+C:\Programas\dotNET\listaSimples\obj\Debug\net8.0\ref\listaSimples.dll
