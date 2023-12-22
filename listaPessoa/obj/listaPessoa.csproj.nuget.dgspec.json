@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programas\\dotNet\\listaPessoa\\listaPessoa.csproj": {}
+    "C:\\Programas\\dotNET\\listaPessoa\\listaPessoa.csproj": {}
   },
   "projects": {
-    "C:\\Programas\\dotNet\\listaPessoa\\listaPessoa.csproj": {
+    "C:\\Programas\\dotNET\\listaPessoa\\listaPessoa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programas\\dotNet\\listaPessoa\\listaPessoa.csproj",
+        "projectUniqueName": "C:\\Programas\\dotNET\\listaPessoa\\listaPessoa.csproj",
         "projectName": "listaPessoa",
-        "projectPath": "C:\\Programas\\dotNet\\listaPessoa\\listaPessoa.csproj",
+        "projectPath": "C:\\Programas\\dotNET\\listaPessoa\\listaPessoa.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Programas\\dotNet\\listaPessoa\\obj\\",
+        "outputPath": "C:\\Programas\\dotNET\\listaPessoa\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"

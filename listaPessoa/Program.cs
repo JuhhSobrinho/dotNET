@@ -10,19 +10,26 @@ class Program
 
         Console.WriteLine("Digite os nomes (digite 'fim' para parar):");
 
-        string? MyNameInput;
-        while ((MyNameInput = Console.ReadLine()) != "fim")
+        string? myNameInput;
+        while ((myNameInput = Console.ReadLine()) != "fim")
         {
-            Console.WriteLine("Digite Sua idade: ");
-            string? userInput = Console.ReadLine();
 
-            if (!int.TryParse(userInput, out int number))
-            {
-                throw new ArgumentException("Entrada inválida. Deve ser um número inteiro.");
+
+            Console.WriteLine("Digite Sua idade: ");
+            string? idadeInput = Console.ReadLine();
+            Console.WriteLine("Digite Sua a sua doação: (ex: 22,50)");
+            string? doacaoInput = Console.ReadLine();
+
+
+            int.TryParse(idadeInput, out int idade);
+            decimal.TryParse(doacaoInput, out decimal doacao); //ou só coverter Convert.ToInt32(userInput)            p.Idade.Add(error);
+            if(idade == 0){
+                throw new ArgumentException("Idade invalida");
+            } else {
+
+                p.AddPessoa(myNameInput, idade, doacao);
             }
 
-            p.MyName.Add(MyNameInput);
-            p.Idade.Add(number);
             Console.WriteLine("Digite os nomes (digite 'fim' para parar):");
         }
 

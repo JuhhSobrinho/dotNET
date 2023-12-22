@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = listaPessoa
-build_property.ProjectDir = C:\Programas\dotNet\listaPessoa\
+build_property.ProjectDir = C:\Programas\dotNET\listaPessoa\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
