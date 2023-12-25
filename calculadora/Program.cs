@@ -50,7 +50,7 @@ switch (typeOperacao)
     case "Tangente":
         System.Console.WriteLine("Será utilizado aprenas o valor1");
         cal.Tan();
-        break;
+        brea k;
 
     case "Raiz":
         cal.Raiz();

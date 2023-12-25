@@ -1,0 +1,15 @@
+C:\Programas\dotNET\estacionamento\obj\Debug\net8.0\estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas\dotNET\estacionamento\obj\Debug\net8.0\estacionamento.AssemblyInfoInputs.cache
+C:\Programas\dotNET\estacionamento\obj\Debug\net8.0\estacionamento.AssemblyInfo.cs
+C:\Programas\dotNET\estacionamento\obj\Debug\net8.0\estacionamento.csproj.CoreCompileInputs.cache
+C:\Programas\dotNET\estacionamento\obj\Debug\net8.0\estacionamento.sourcelink.json
+C:\Programas\dotNET\estacionamento\bin\Debug\net8.0\estacionamento.exe
+C:\Programas\dotNET\estacionamento\bin\Debug\net8.0\estacionamento.deps.json
+C:\Programas\dotNET\estacionamento\bin\Debug\net8.0\estacionamento.runtimeconfig.json
+C:\Programas\dotNET\estacionamento\bin\Debug\net8.0\estacionamento.dll
+C:\Programas\dotNET\estacionamento\bin\Debug\net8.0\estacionamento.pdb
+C:\Programas\dotNET\estacionamento\obj\Debug\net8.0\estacionamento.dll
+C:\Programas\dotNET\estacionamento\obj\Debug\net8.0\refint\estacionamento.dll
+C:\Programas\dotNET\estacionamento\obj\Debug\net8.0\estacionamento.pdb
+C:\Programas\dotNET\estacionamento\obj\Debug\net8.0\estacionamento.genruntimeconfig.cache
+C:\Programas\dotNET\estacionamento\obj\Debug\net8.0\ref\estacionamento.dll
