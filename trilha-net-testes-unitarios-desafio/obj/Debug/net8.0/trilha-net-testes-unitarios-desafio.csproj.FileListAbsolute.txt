@@ -1,0 +1,15 @@
+C:\Programas\dotNET\trilha-net-testes-unitarios-desafio\bin\Debug\net8.0\trilha-net-testes-unitarios-desafio.exe
+C:\Programas\dotNET\trilha-net-testes-unitarios-desafio\bin\Debug\net8.0\trilha-net-testes-unitarios-desafio.deps.json
+C:\Programas\dotNET\trilha-net-testes-unitarios-desafio\bin\Debug\net8.0\trilha-net-testes-unitarios-desafio.runtimeconfig.json
+C:\Programas\dotNET\trilha-net-testes-unitarios-desafio\bin\Debug\net8.0\trilha-net-testes-unitarios-desafio.dll
+C:\Programas\dotNET\trilha-net-testes-unitarios-desafio\bin\Debug\net8.0\trilha-net-testes-unitarios-desafio.pdb
+C:\Programas\dotNET\trilha-net-testes-unitarios-desafio\obj\Debug\net8.0\trilha-net-testes-unitarios-desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas\dotNET\trilha-net-testes-unitarios-desafio\obj\Debug\net8.0\trilha-net-testes-unitarios-desafio.AssemblyInfoInputs.cache
+C:\Programas\dotNET\trilha-net-testes-unitarios-desafio\obj\Debug\net8.0\trilha-net-testes-unitarios-desafio.AssemblyInfo.cs
+C:\Programas\dotNET\trilha-net-testes-unitarios-desafio\obj\Debug\net8.0\trilha-net-testes-unitarios-desafio.csproj.CoreCompileInputs.cache
+C:\Programas\dotNET\trilha-net-testes-unitarios-desafio\obj\Debug\net8.0\trilha-net-testes-unitarios-desafio.sourcelink.json
+C:\Programas\dotNET\trilha-net-testes-unitarios-desafio\obj\Debug\net8.0\trilha-net-testes-unitarios-desafio.dll
+C:\Programas\dotNET\trilha-net-testes-unitarios-desafio\obj\Debug\net8.0\refint\trilha-net-testes-unitarios-desafio.dll
+C:\Programas\dotNET\trilha-net-testes-unitarios-desafio\obj\Debug\net8.0\trilha-net-testes-unitarios-desafio.pdb
+C:\Programas\dotNET\trilha-net-testes-unitarios-desafio\obj\Debug\net8.0\trilha-net-testes-unitarios-desafio.genruntimeconfig.cache
+C:\Programas\dotNET\trilha-net-testes-unitarios-desafio\obj\Debug\net8.0\ref\trilha-net-testes-unitarios-desafio.dll
